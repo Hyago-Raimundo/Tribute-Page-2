@@ -1,4 +1,11 @@
 #image {
-  position: relative;
+  display: block;
   margin: auto;
+  max-width: 100%;
+}
+#title {
+  text-align: center;
+}
+body {
+  text-align: center;
 }
